@@ -20,7 +20,7 @@
 
 
 
-<img align="left" width="45px" desc="javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" width="45px" desc="javascript" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/187_Js_logo_logos-256.png"/>
 
 
 <img align="left" width="40px" desc="mysql" src="https://pics.freeicons.io/uploads/icons/png/20716557431537355600-512.png"/>
