@@ -18,7 +18,7 @@
 
 
 
-<img align="left" width="40px" desc="javascript" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/>
+<img align="left" width="40px" desc="javascript" src="https://pics.freeicons.io/uploads/icons/png/13691885491579517854-512.png"/>
 
 <img align="left" width="40px" desc="redux" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png"/>
 
