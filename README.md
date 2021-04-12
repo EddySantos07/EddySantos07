@@ -36,8 +36,11 @@
 
 
 
-###Connect with me: 
+### Connect with me: 
 
 [<img align="left" width="40px" desc="linkedin" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Linkedin_glyph_svg-256.png"/>][linkedin]
+
+<br/>
+<br/>
 
 [linkedin]: https://linkedin.com/in/eddysantostech
