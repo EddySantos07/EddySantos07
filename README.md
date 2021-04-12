@@ -20,12 +20,11 @@
 
 <img align="left" width="40px" desc="javascript" src="https://pics.freeicons.io/uploads/icons/png/13691885491579517854-512.png"/>
 
+
 <img align="left" width="40px" desc="redux" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png"/>
 
 
 <img align="left" width="40px" desc="docker" src="https://www.flaticon.com/svg/vstatic/svg/919/919853.svg?token=exp=1618258709~hmac=7c86078c3a68010f10b0f573109dffbf"/>
-
-
 
 
 <img align="left" width="40px" desc="visual studio code" src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1618258591~hmac=81e7946ba6112d37399e918de43e2d88"/>
