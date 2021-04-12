@@ -39,7 +39,7 @@
 
 ### Connect with me: 
 
-[<img align="left" width="40px" desc="linkedin" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/51-linkedin-256.png"/>][linkedin]
+[<img align="left" width="40px" desc="linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-256.png"/>][linkedin]
 
 <br/>
 <br/>
