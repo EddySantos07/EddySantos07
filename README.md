@@ -34,5 +34,11 @@
 
 <img align="left" width="40px" desc="git" src="https://www.flaticon.com/svg/vstatic/svg/919/919847.svg?token=exp=1618258709~hmac=1af199df47ea8a85559f769f22695989"/>
 
+<br/>
+<br/>
+
+###Connect with me: 
+
+[<img align="left" width="40px" desc="linkedin" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Linkedin_glyph_svg-256.png"/>][linkedin]
 
 [linkedin]: https://linkedin.com/in/eddysantostech
