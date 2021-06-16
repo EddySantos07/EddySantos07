@@ -14,17 +14,17 @@
 
 <img align="left" width="40px" desc="html5" src="TechIcons/icons8-html-100.png?raw=true"/>
 
-<img align="left" width="40px" desc="css3" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618258384~hmac=8a2e6ffd145d2ab9efc2d453de548a23"/>
+<img align="left" width="40px" desc="css3" src="TechIcons/icons8-css3-128.png?raw=true"/>
 
-<img align="left" width="45px" desc="javascript" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/187_Js_logo_logos-512.png"/>
+<img align="left" width="45px" desc="javascript" src="TechIcons/icons8-javascript-96.png?raw=true"/>
 
-<img align="left" width="40px" desc="mysql" src="https://pics.freeicons.io/uploads/icons/png/20716557431537355600-512.png"/>
+<img align="left" width="40px" desc="mysql" src="TechIcons/icons8-database-restore-128.png"/>
 
-<img align="left" width="40px" desc="docker" src="https://www.flaticon.com/svg/vstatic/svg/919/919853.svg?token=exp=1618258709~hmac=7c86078c3a68010f10b0f573109dffbf"/>
+<img align="left" width="40px" desc="docker" src="TechIcons/icons8-docker-96.png"/>
 
 <img align="left" width="40px" desc="visual studio code" src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1618258591~hmac=81e7946ba6112d37399e918de43e2d88"/>
 
-<img align="left" width="40px" desc="git" src="https://www.flaticon.com/svg/vstatic/svg/919/919847.svg?token=exp=1618258709~hmac=1af199df47ea8a85559f769f22695989"/>
+<img align="left" width="40px" desc="git" src="TechIcons/icons8-git-96.png"/>
 
 <br/>
 <br/>
