@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<img align="left" width="40px" desc="React" src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1618257651~hmac=a2bb1d1847c864057a5c9de3759e3988"/>
+<img align="left" width="40px" desc="React" src="./TechIcons/icons8-react-native-96(1).png"/>
 
 <img align="left" width="40px" desc="redux" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png"/>
 
