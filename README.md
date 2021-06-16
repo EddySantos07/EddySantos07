@@ -34,7 +34,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eddysantostech/)
 
 <br/>
-<br/>
 
 <div>
 <div style="float:left;" >
@@ -42,7 +41,7 @@
 </div>
 
 <div style="float:right;" >
-    <img  src="https://github-readme-stats.vercel.app/api?username=EddySantos07&&show_icons=true&?theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+    <img  src="https://github-readme-stats.vercel.app/api?username=EddySantos07&&show_icons=true&theme=tokyonight&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 </div>
 </div>
