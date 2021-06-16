@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<img align="left" width="40px" desc="React" src="TechIcons/icons8-react-native-96(1).png?raw=true"/>
+<img align="left" width="40px" desc="React" src="TechIcons/icons8-react-native-96 (1).png?raw=true"/>
 
 <img align="left" width="40px" desc="redux" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png"/>
 
