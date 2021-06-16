@@ -1,6 +1,6 @@
 ### Hi there, I'm Eddy! 
     I'm from Guatemala, and i really enjoy programming!
-Also really enjoy learning about new tech such as React and Redux
+    Also really enjoy learning about new tech such as React and Redux
 
 
 ### I'm A Developer, as well as a gamer!
@@ -48,8 +48,8 @@ Also really enjoy learning about new tech such as React and Redux
 <br/>
 <br/>
 
-<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddySantos07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddySantos07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=EddySantos07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
