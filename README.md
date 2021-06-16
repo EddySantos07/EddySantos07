@@ -38,7 +38,7 @@
 
 <div>
 <div style="float:left;" >
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddySantos07&&title_color=ffffff&theme=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddySantos07&&title_color=ffffff&?theme=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
 </div>
 
 <div style="float:right;" >
