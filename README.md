@@ -10,9 +10,9 @@
 
 <img align="left" width="40px" desc="React" src="TechIcons/icons8-react-native-96 (1).png?raw=true"/>
 
-<img align="left" width="40px" desc="redux" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png"/>
+<img align="left" width="40px" desc="redux" src="TechIcons/icons8-redux-100.png?raw=true"/>
 
-<img align="left" width="40px" desc="html5" src="https://www.flaticon.com/svg/vstatic/svg/1216/1216733.svg?token=exp=1618258340~hmac=7bf5cfdc0d58a3982b7d782ef5f8270a"/>
+<img align="left" width="40px" desc="html5" src="TechIcons/icons8-html-100.png?raw=true"/>
 
 <img align="left" width="40px" desc="css3" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1618258384~hmac=8a2e6ffd145d2ab9efc2d453de548a23"/>
 
