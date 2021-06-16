@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<img align="left" width="40px" desc="React" src="./TechIcons/icons8-react-native-96(1).png"/>
+<img align="left" width="40px" desc="React" src="TechIcons/icons8-react-native-96(1).png"/>
 
 <img align="left" width="40px" desc="redux" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png"/>
 
@@ -35,7 +35,6 @@
 
 <br/>
 
-
 <div align="center" >
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddySantos07&&title_color=ffffff&?theme=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
 </div>
@@ -44,4 +43,3 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=EddySantos07&&show_icons=true&theme=tokyonight&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 </div>
-
