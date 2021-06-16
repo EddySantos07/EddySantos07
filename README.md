@@ -1,4 +1,7 @@
 ### Hi there, I'm Eddy! 
+    I'm from Guatemala, and i really enjoy programming!
+Also really enjoy learning about new tech such as React and Redux
+
 
 ### I'm A Developer, as well as a gamer!
 - :pirate_flag:  2020 Goals: Contribute to tlopo, and open source!
@@ -39,12 +42,8 @@
 
 ### Connect with me: 
 
-[<img align="left" width="40px" desc="linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-256.png"/>][linkedin]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eddysantostech/)  
 
-<br/>
-<br/>
-
-[linkedin]: https://linkedin.com/in/eddysantostech
 
 <br/>
 <br/>
