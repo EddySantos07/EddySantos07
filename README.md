@@ -3,8 +3,6 @@
     I'm from Guatemala, and i really enjoy programming!
     Also really enjoy learning about new tech such as React and Redux
 
-### I'm A Developer, as well as a gamer!
-
 - :pirate_flag: 2020 Goals: Contribute to tlopo, and open source!
 - :cloud_with_lightning_and_rain: Fun fact: I love the rain
 
