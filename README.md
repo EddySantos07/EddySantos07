@@ -42,7 +42,7 @@
 </div>
 
 <div style="float:right;" >
-    <img  height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=EddySantos07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+    <img  height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=EddySantos07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 </div>
 </div>
