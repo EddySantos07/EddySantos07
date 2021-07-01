@@ -22,7 +22,7 @@
 
 <img align="left" width="40px" desc="docker" src="TechIcons/icons8-docker-96.png"/>
 
-<img align="left" width="40px" desc="visual studio code" src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1618258591~hmac=81e7946ba6112d37399e918de43e2d88"/>
+<!-- <img align="left" width="40px" desc="visual studio code" src="TechIcons/icons8-docker-96.png"/> -->
 
 <img align="left" width="40px" desc="git" src="TechIcons/icons8-git-96.png"/>
 
