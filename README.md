@@ -3,7 +3,7 @@
     I'm from Guatemala, and i really enjoy programming!
     Also really enjoy learning about new tech such as React and Redux
 
-- :pirate_flag: 2021 Goals: Contribute to tlopo, and open source!
+- :pirate_flag: 2022 Goals: Contribute to tlopo, and open source!
 - :cloud_with_lightning_and_rain: Fun fact: I love the rain
 
 ### Languages and Tools:
